@@ -1,0 +1,2 @@
+C:\Users\hp\Desktop\大三下\编译原理\上机作业\词法分析程序\Debug\词法分析程序.exe
+C:\Users\hp\Desktop\大三下\编译原理\上机作业\词法分析程序\Debug\词法分析程序.pdb
