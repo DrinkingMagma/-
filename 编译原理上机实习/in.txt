@@ -1,0 +1,1 @@
+int$c3,$t,$auif;$c3=2;$t=5;$auif=2;$c3=($c3+706)*($auif+2);while($t>$c3*632)dobegin$c3=$t+59;$t=$auif+3;end; if($t+9>$c3+60)then$c3=$auif*1;else$c3=$t+219;

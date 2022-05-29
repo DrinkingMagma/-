@@ -1,0 +1,5 @@
+﻿  源.cpp
+C:\Users\hp\Desktop\大三下\编译原理\上机作业\编译原理上机实习\源.cpp(60,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\hp\Desktop\大三下\编译原理\上机作业\编译原理上机实习\源.cpp(65,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\hp\Desktop\大三下\编译原理\上机作业\编译原理上机实习\源.cpp(88,1): warning C4267: “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+  编译原理上机实习.vcxproj -> C:\Users\hp\Desktop\大三下\编译原理\上机作业\编译原理上机实习\x64\Debug\编译原理上机实习.exe

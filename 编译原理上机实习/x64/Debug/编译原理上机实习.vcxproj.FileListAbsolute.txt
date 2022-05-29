@@ -1,0 +1,2 @@
+C:\Users\hp\Desktop\大三下\编译原理\上机作业\编译原理上机实习\x64\Debug\编译原理上机实习.exe
+C:\Users\hp\Desktop\大三下\编译原理\上机作业\编译原理上机实习\x64\Debug\编译原理上机实习.pdb
